@@ -177,16 +177,6 @@ This Project is a part of the following Open Source Programs
 
 <img src ="https://miro.medium.com/max/3000/1*CKaCnG11p5i0KiQyaoyBvg.png" alt ="Girlscript Summer Of Code"></img>
 
-<h2>Contributors:</h2>
 
-### Credits goes to these people:✨
 
-<table>
-	<tr>
-		<td>
-   <a href="https://github.com/Namanl2001/MERN-Gurujii-dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Namanl2001/MERN-Gurujii-dev" />
-</a>
-		</td>
-	</tr>
-</table>
+
